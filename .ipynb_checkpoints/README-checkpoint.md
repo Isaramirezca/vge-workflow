@@ -1,6 +1,6 @@
 # About
 
-This document shows a straightforward workflow to create an initial Virtual Geographic Environment from drone images and through the use of only Free and Open Source Software. This works focus is on the processing and visualization of the obtained photogrammetric data. However, some minimum requirements and steps before and during the drone mission will be described. Integrating the identified tools into a centralized user interface falls outside the scope of this thesis.
+This document shows a straightforward workflow to create an initial Virtual Geographic Environment from drone images and through using only Free and Open Source Software. This works focus is on the processing and visualization of the obtained photogrammetric data. However, some minimum requirements and steps before and during the drone mission will be described. Integrating the identified tools into a centralized user interface falls outside the scope.
 
 This workflow was created as part of the thesis "Virtual Geographic Environments for Education and Public Outreach in River Development. Showcase: The Erft River Restoration Project in Neuss-Gnadental, Germany" 
 
@@ -16,10 +16,15 @@ To be able to explore this workflow on your computer
 * Install Pip
 * Install Jupyter notebook with pip
 
-More information on the Jupyter Project is available [here](https://github.com/Isaramirezca/vge-workflow/blob/isa-branch/Exchange.ipynb)
+More information on the use of the Jupyter Project in this workflow is available [here](https://github.com/Isaramirezca/vge-workflow/blob/isa-branch/Exchange.ipynb)
 
 
 # Credits
+
+Hi there, my name is Isabel Ramírez, I am not a computer scientist or a programmer, but I created this tool to be understandable and affordable for non-developers. If you want to add features, instructions, or resources  you can make a branch of [this project](https://github.com/Isaramirezca/vge-workflow) on GitHub and use Jupiter Notebooks to add your contributions.
+Otherwise, you can also write me an email at isabel.ramirez@correounivalle.edu.co, and I will add your contributions with credits. 
+
+If you find mistakes, I would appreciate the heads up.  
 
 * The code found in this showcase is based on the Potree project, its examples and showcases.
 * Potree is a free, open-source WebGL based point cloud renderer for large point clouds. It is based on the [TU Wien Scanopy project](https://www.cg.tuwien.ac.at/research/projects/Scanopy/) and research projects [Harvest4D](https://harvest4d.org/), [GCD Doctoral College](https://gcd.tuwien.ac.at/) and [Superhumans](https://www.cg.tuwien.ac.at/research/projects/Superhumans/).

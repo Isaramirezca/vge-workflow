@@ -1,6 +1,6 @@
 # About
 
-This document shows a straightforward workflow to create an initial Virtual Geographic Environment from drone images and through the use of only Free and Open Source Software. This works focus is on the processing and visualization of the obtained photogrammetric data. However, some minimum requirements and steps before and during the drone mission will be described. Integrating the identified tools into a centralized user interface falls outside the scope of this thesis.
+This document shows a straightforward workflow to create an initial Virtual Geographic Environment from drone images and through using only Free and Open Source Software. This works focus is on the processing and visualization of the obtained photogrammetric data. However, some minimum requirements and steps before and during the drone mission will be described. Integrating the identified tools into a centralized user interface falls outside the scope.
 
 This workflow was created as part of the thesis "Virtual Geographic Environments for Education and Public Outreach in River Development. Showcase: The Erft River Restoration Project in Neuss-Gnadental, Germany" 
 
@@ -16,7 +16,7 @@ To be able to explore this workflow on your computer
 * Install Pip
 * Install Jupyter notebook with pip
 
-More information on the Jupyter Project is available [here](https://github.com/Isaramirezca/vge-workflow/blob/isa-branch/Exchange.ipynb)
+More information on the use of the Jupyter Project in this workflow is available [here](https://github.com/Isaramirezca/vge-workflow/blob/isa-branch/Exchange.ipynb)
 
 
 # Credits
