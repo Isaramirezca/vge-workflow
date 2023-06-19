@@ -12,7 +12,7 @@ You can simply navegate the workflow by clicking in the `Outline.ipynb` file. Yo
 
 To be able to explore this workflow on your computer 
 
-* Install Python (https://www.python.org/downloads/)
+* Install [Python](https://www.python.org/downloads/)
 * Install Pip
 * Install Jupyter notebook with pip
 
@@ -29,6 +29,5 @@ If you find mistakes, I would appreciate the heads up.
 * The code found in this showcase is based on the Potree project, its examples and showcases.
 * Potree is a free, open-source WebGL based point cloud renderer for large point clouds. It is based on the [TU Wien Scanopy project](https://www.cg.tuwien.ac.at/research/projects/Scanopy/) and research projects [Harvest4D](https://harvest4d.org/), [GCD Doctoral College](https://gcd.tuwien.ac.at/) and [Superhumans](https://www.cg.tuwien.ac.at/research/projects/Superhumans/).
 * This workflow was created as part of the thesis "Virtual Geographic Environments for Education and Public Outreach in River Development. Showcase: The Erft River Restoration Project in Neuss-Gnadental, Germany" for obtaining the Master's degree Master of Science in the study program Integrated Water Resources Management at the [Institute for Technology and Resources Management in the Tropics and Subtropics](https://www.tt.th-koeln.de/) at [TH Köln University of applied Sciences](https://www.th-koeln.de/), Cologne, Germany under the supervision of the Dr. rer. nat. [Georg Lamberty](https://www.th-koeln.de/personen/georg.lamberty/).
->>>>>>> origin/isa-branch
 * The thesis is also part of the Valley of Mercy project, wich aims to developing a virtual teaching-learning space for the subject area "spatial development" using the example of the Erft restoration in Gnadental (Neuss)
 * Part of the applied research project was financed by the [Planungsbüro Zumbroich](https://www.zumbroich.com/de/home)
